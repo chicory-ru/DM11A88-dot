@@ -41,4 +41,3 @@ for ani in animation:
             reg2 = bits[(i%10)]
             update(~reg1, reg2)
     tim.counter(0)
-update(0,0)
